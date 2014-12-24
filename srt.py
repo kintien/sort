@@ -30,4 +30,3 @@ while numberplacement <len(mylist):
 
 #print the list
 print(mylist)
-
